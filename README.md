@@ -1,4 +1,4 @@
-# osx-config
+# OSX Configuration
 My configuration and apps for OSX
 
 ## Configuration
