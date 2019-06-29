@@ -1,6 +1,17 @@
 # osx-config
 My configuration and apps for OSX
 
+## Configuration
+
+### Folders
+
+In user directory (e.g. `horm`) create a folder `Development` with these subfolders: 
+
+- Web
+- Mobile
+- HW
+- Other
+
 ## Apps
 
 ### Terminal
