@@ -41,6 +41,7 @@ Also download [backup app for Google Drive](https://www.google.com/intl/cs_ALL/d
 ### Communication
 
 - [Slack](https://apps.apple.com/app/slack/id803453959?ls=1&mt=12)
+- [Goofy](https://www.goofyapp.com/) (FB Messenger)
 
 ### Management
 
