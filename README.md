@@ -23,6 +23,7 @@ Then add/orginize folders in Finder side menu (user directory, Development, Goog
 
 ### Development
 
+- [Homebrew](https://brew.sh/)
 - [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [VS Code](https://code.visualstudio.com/)
