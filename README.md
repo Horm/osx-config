@@ -27,6 +27,7 @@ Then add/orginize folders in Finder side menu (user directory, Development, Goog
 - [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [VS Code](https://code.visualstudio.com/)
+- [Docker](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
 
 ### Terminal
 
