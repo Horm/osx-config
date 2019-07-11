@@ -62,4 +62,5 @@ Also download [backup app for Google Drive](https://www.google.com/intl/cs_ALL/d
 - [KeeWeb](https://keeweb.info/)
 - [OBS](https://obsproject.com/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/)
+- [XMind](https://www.xmind.net/)
 
