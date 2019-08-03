@@ -60,6 +60,7 @@ Also download [backup app for Google Drive](https://www.google.com/intl/cs_ALL/d
 ### Other
 
 - [KeeWeb](https://keeweb.info/)
+- [f.lux](https://justgetflux.com/)
 - [OBS](https://obsproject.com/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/)
 - [XMind](https://www.xmind.net/)
