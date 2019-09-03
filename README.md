@@ -29,6 +29,8 @@ Then add/orginize folders in Finder side menu (user directory, Development, Goog
 - [VS Code](https://code.visualstudio.com/)
 - [Docker](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
 - [Postman](https://www.getpostman.com/downloads/)
+- [Git](https://git-scm.com/download/mac)
+- [Git Standup](https://github.com/kamranahmedse/git-standup)
 
 ### Terminal
 
