@@ -61,6 +61,6 @@ Also download [backup app for Google Drive](https://www.google.com/intl/cs_ALL/d
 - [f.lux](https://justgetflux.com/)
 - [OBS](https://obsproject.com/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/)
-- [XMind](https://www.xmind.net/)
+- [XMind](https://apps.apple.com/app/id1327661892)
 - [Rocket](https://matthewpalmer.net/rocket/)
 
