@@ -7,12 +7,10 @@ My configuration and apps for OSX
 
 In user directory (e.g. `horm`) create a folder `Development` with these subfolders: 
 
-- Web
-- Mobile
-- HW
+- Work
 - Other
 
-Then add/orginize folders in Finder side menu (user directory, Development, Google Drive, etc.)
+Then add/orginize folders in Finder side menu (user directory, Development, Drive, etc.)
 
 ### Other
 
@@ -46,24 +44,23 @@ Also download [backup app for Google Drive](https://www.google.com/intl/cs_ALL/d
 ### Communication
 
 - [Slack](https://apps.apple.com/app/slack/id803453959?ls=1&mt=12)
-- [Goofy](https://www.goofyapp.com/) (FB Messenger)
+- [Messenger](https://apps.apple.com/us/app/messenger/id1480068668?mt=12)
 
 ### Management
 
-- [Trello](https://apps.apple.com/cz/app/trello/id1278508951?l=cs&mt=12)
-- [Toggl Desktop](https://apps.apple.com/cz/app/toggl-desktop/id957734279?l=cs&mt=12)
+- [Notion](https://www.notion.so/desktop)
 
 ### Media
 
 - [Spotify](https://www.spotify.com/cz/download/mac/)
 - [VLC](http://www.videolan.org/vlc/)
-- [Pocket](https://apps.apple.com/cz/app/pocket/id568494494?l=cs&mt=12)
 
 ### Other
 
-- [KeeWeb](https://keeweb.info/)
+- [KeePassXC](https://keepassxc.org/)
 - [f.lux](https://justgetflux.com/)
 - [OBS](https://obsproject.com/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/)
 - [XMind](https://www.xmind.net/)
+- [Rocket](https://matthewpalmer.net/rocket/)
 
